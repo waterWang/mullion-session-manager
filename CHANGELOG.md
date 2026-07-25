@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.9](https://github.com/s3ntin3l8/mullion-session-manager/compare/v0.2.8...v0.2.9) (2026-07-25)
+
+
+### Bug Fixes
+
+* **preview:** stop leaking forwarded headers to previewed dev servers ([#324](https://github.com/s3ntin3l8/mullion-session-manager/issues/324)) ([ed802b2](https://github.com/s3ntin3l8/mullion-session-manager/commit/ed802b263a8b69bfef78a6028376083857e28a5b))
+* stop dock terminals from corrupting other panes' WebGL glyphs ([#325](https://github.com/s3ntin3l8/mullion-session-manager/issues/325)) ([e137683](https://github.com/s3ntin3l8/mullion-session-manager/commit/e137683e353be3bfa21f0b48d1633ee63f68d91f))
+
 ## [0.2.8](https://github.com/s3ntin3l8/mullion-session-manager/compare/v0.2.7...v0.2.8) (2026-07-25)
 
 
